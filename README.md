@@ -1,1 +1,1 @@
-# htmlt-day2
+# completed my day 2 class work
